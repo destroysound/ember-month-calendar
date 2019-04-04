@@ -1,0 +1,1 @@
+export { default } from 'ember-month-calendar/components/month-calendar';
