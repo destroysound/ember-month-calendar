@@ -33,6 +33,13 @@ export default Controller.extend({
             {start: "07/01/2019", numMonths: 3, color: "#C00"},
           ]
         },
+        {
+          name: "User5",
+          blocks: [
+            {start: "02/01/2019", numMonths: 3, color: "#C00"},
+            {start: "05/01/2019", numMonths: 3, color: "#C00"},
+          ]
+        }
       ]
     })
   }
