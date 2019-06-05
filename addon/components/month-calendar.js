@@ -91,10 +91,6 @@ export default Component.extend({
     let blockSize = this.get('blockSize');
     ctx.strokeStyle = '#000000';
     ctx.textAlign = "left"
-    if (offset % 2) {
-      ctx.fillStyle = "rgba(0, 0, 0, 0.08)";
-      ctx.fillRect(0, blockSize+offset*blockSize, this.get('width'), blockSize);
-    }
     ctx.strokeText(user.name, 0, blockSize+offset*blockSize+blockSize/2+4)
     for (let i = 0; i < user.blocks.length; i++) {
       this._drawBlock(offset, user.blocks[i]);
