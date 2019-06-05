@@ -5,7 +5,7 @@ import moment from 'moment';
 export default Component.extend({
   tagName: 'canvas',
   width: 1000,
-  height: 240,
+  height: 1000,
   blockOffset: 8,
   blockSize: 40,
   firstColumnWidth: 80,
