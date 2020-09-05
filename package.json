@@ -27,7 +27,7 @@
     "ember-composable-helpers": "2.1.0",
     "ember-font-awesome": "3.1.1",
     "ember-truth-helpers": "2.1.0",
-    "handlebars": "^4.1.2"
+    "handlebars": "^4.5.3"
   },
   "devDependencies": {
     "@ember/optional-features": "^0.6.3",
