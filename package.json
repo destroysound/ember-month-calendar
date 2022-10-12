@@ -33,7 +33,7 @@
     "@ember/optional-features": "^0.6.3",
     "broccoli-asset-rev": "^2.7.0",
     "clean-css": ">=4.1.11",
-    "ember-cli": "^3.10.1",
+    "ember-cli": "^3.28.6",
     "ember-cli-dependency-checker": "^3.0.0",
     "ember-cli-eslint": "^4.2.3",
     "ember-cli-htmlbars": "^3.0.0",
